@@ -1,7 +1,6 @@
 # Import necessary libraries and modules
 import streamlit as st
 import pandas as pd
-pip install openpyxl
 import openpyxl
 
 # Read in the Excel spreadsheet and create a DataFrame object for each sheet
