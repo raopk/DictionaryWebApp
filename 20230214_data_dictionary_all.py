@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-#import base64
+import base64
 
 # Load the xlsx file into a pandas dataframe
 df = pd.read_excel('20230214_data_dictionary_all.xlsx')
